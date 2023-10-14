@@ -21,3 +21,9 @@ const weekdays = [
   "Friday",
   "Saturday",
 ];
+
+const gineaway = document.querySelector(".giveaway");
+const deadline = document.querySelector(".deadline");
+const deadlineformat = document.querySelectorAll(".deadline-format h4");
+
+
